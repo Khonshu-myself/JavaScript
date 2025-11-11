@@ -1,0 +1,2 @@
+what is hoisting ? what is tdz?
+difference between arrow function and normal function.
